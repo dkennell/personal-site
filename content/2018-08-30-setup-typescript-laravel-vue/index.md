@@ -1,10 +1,10 @@
 ---
-title: How to setup TypeScript with Laravel and Vue
+title: Another placeholder
 date: 2018-11-12
 tags: [laravel, vuejs, typescript, javascript, nodejs]
 path: blog/setup-typescript-with-laravel-and-vue
 cover: ./preview.jpg
-excerpt: In this post we'll see how setup the Typescript and how use it in a project built with Laravel and Vue.
+excerpt: Excerpty MyEx
 ---
 
 These last couple of weeks, I have been working on a Laravel project with a lot of dynamic interfaces that are heavily dependent on Vue. As the project started to get bigger and I was passing around many of the same data objects in different modules I felt that I wanted to secure myself from not accessing wrong properties or passing wrong arguments to functions that I might have written weeks ago.
